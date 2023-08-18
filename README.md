@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
-<h3 align="center">| MCA IET'24 |<br/>
-  | Passionate frontend developer | <br/>
-  | React, React Native, Firebase | <br/>
+<h3 align="center">| MCA IET'24 |
+  | Passionate frontend developer | 
+  | React, React Native, Firebase | 
   | DSA, C++, LeetCode,GFG | </h3>
 
 - 🌱 I’m currently learning **React Native**
