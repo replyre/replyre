@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
-<h3 align="center">|| MCA IET'24 | Passionate frontend developer | React, React Native, Firebase | DSA, C++, LeetCode,GFG ||</h3>
+<h3 align="center">| MCA IET'24 | Passionate frontend developer | React, React Native, Firebase | DSA, C++, LeetCode,GFG |</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
