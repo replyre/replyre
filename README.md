@@ -12,10 +12,15 @@
     /></a>
   </p>
 
-  - 🌱 I’m currently learning **React Native** - 💬 Ask me about **React, JS,
-  DSA, C++,** - 📫 How to reach me **replyrgupta@gmail.com** - 📄 Resume
-  [https://drive.google.com/file/d/1P9Ydz3MdjpwItIq8aviI9_LXi6x9hLuo/view?usp=drive_link](https://drive.google.com/file/d/1P9Ydz3MdjpwItIq8aviI9_LXi6x9hLuo/view?usp=drive_link)
-  - ⚡ Fun fact **A gregarious nerd with humour 🙂.**
+ - 🌱 I’m currently learning **React Native**
+
+- 💬 Ask me about **React, JS, DSA, C++,**
+
+- 📫 How to reach me **replyrgupta@gmail.com**
+
+- 📄 Resume [Click Me](https://drive.google.com/file/d/1P9Ydz3MdjpwItIq8aviI9_LXi6x9hLuo/view?usp=drive_link)
+
+- ⚡ Fun fact **A gregarious nerd with humour 🙂.**
 
   <h3 align="center">Connect with me:</h3>
   <p align="center">
@@ -179,7 +184,6 @@
         height="50"
       />
     </a>
-    </h3>
   </h3>
   <p align="center">
     <img
