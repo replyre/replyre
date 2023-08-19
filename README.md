@@ -153,8 +153,8 @@
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5"
-        width="50"
-        height="50"
+        width="80"
+        height="80"
       /></a>&nbsp;&nbsp;&nbsp;
     <a
       href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
@@ -164,8 +164,8 @@
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript"
-        width="50"
-        height="50"
+        width="80"
+        height="80"
       /></a>
 </h3>
 <h3 align="center" width="100%">
