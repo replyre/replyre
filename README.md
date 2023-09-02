@@ -23,7 +23,7 @@
 - ⚡ Fun fact **A gregarious nerd with humour 🙂.**
 
 
-<center>
+
         <table width=800px border="2">
             <tr align="center">
                 <td> 
@@ -42,7 +42,6 @@
                 <td>Feedback</td>
             </tr>
       </table>    
-</center>
   <h3 align="center">Connect with me:</h3>
   <p align="center">
     <a href="https://linkedin.com/in/replyr" target="blank"
