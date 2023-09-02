@@ -22,24 +22,39 @@
 
 - ⚡ Fun fact **A gregarious nerd with humour 🙂.**
 
-  <table align="center" width="800px" border="0">
-            <tr align="center">
-                <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                     <a  target="_blank" href="https://replyre.github.io/tetris-game/" title="play tetris game"><img src="https://www.freeiconspng.com/uploads/gamepad-icon-0.png" width="100" height="100" alt="Gamepad Free Icon Image" /></a>
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </td>
-                <td>
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                     <a  target="_blank" href="" title="Dad Jokes"><img src="https://www.freeiconspng.com/uploads/meme-png-31.png" width="100" height="100" alt="meme png" /></a>
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </td>
-                <td>
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                   <a  target="_blank" href="https://replyre.github.io/Feedback_UI/" title="Feedback"><img src="https://www.freeiconspng.com/uploads/feedback-icon-22.png" width="100" height="100" alt="Icons Png Feedback Download"/></a>
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                </td>
-            </tr>
-    </table>    
+<p align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a
+        target="_blank"
+        href="https://replyre.github.io/tetris-game/"
+        title="play a game"
+        ><img
+          src="https://www.freeiconspng.com/uploads/gamepad-icon-0.png"
+          width="100"
+          height="100"
+          alt="play a game"
+      /></a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a target="_blank" href="" title="have a laugh"
+        ><img
+          src="https://www.freeiconspng.com/uploads/meme-png-31.png"
+          width="100"
+          height="100"
+          alt="have a laugh"
+      /></a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a
+        target="_blank"
+        href="https://replyre.github.io/Feedback_UI/"
+        title="Feedback"
+        ><img
+          src="https://www.freeiconspng.com/uploads/feedback-icon-22.png"
+          width="100"
+          height="100"
+          alt="Feedback"
+      /></a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </p>
   <h3 align="center">Connect with me:</h3>
   <p align="center">
     <a href="https://linkedin.com/in/replyr" target="blank"
