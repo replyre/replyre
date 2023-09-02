@@ -21,14 +21,6 @@
 - 📄 Resume [Click Me](https://drive.google.com/file/d/1P9Ydz3MdjpwItIq8aviI9_LXi6x9hLuo/view?usp=drive_link)
 
 - ⚡ Fun fact **A gregarious nerd with humour 🙂.**
-
- <center>
-        <table border="2">
-            <tr><td> hello</td><td>hello</td><tr>
-            <tr><td>world</td><td>world</td></tr>
-            <table>  
-                    
- </center>
   <h3 align="center">Connect with me:</h3>
   <p align="center">
     <a href="https://linkedin.com/in/replyr" target="blank"
