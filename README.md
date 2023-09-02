@@ -24,14 +24,19 @@
 
   <table align="center" width="800px" border="0">
             <tr align="center">
-                <td> 
+                <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                      <a href="https://replyre.github.io/tetris-game/" title="play tetris game"><img src="https://www.freeiconspng.com/uploads/gamepad-icon-0.png" width="100" height="100" alt="Gamepad Free Icon Image" /></a>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 </td>
                 <td>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                      <a href="" title="Dad Jokes"><img src="https://www.freeiconspng.com/uploads/meme-png-31.png" width="100" height="100" alt="meme png" /></a>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 </td>
                 <td>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                    <a href="https://replyre.github.io/Feedback_UI/" title="Feedback"><img src="https://www.freeiconspng.com/uploads/feedback-icon-22.png" width="100" height="100" alt="Icons Png Feedback Download"/></a>
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 </td>
             </tr>
             <tr align="center">
