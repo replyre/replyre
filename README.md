@@ -35,7 +35,7 @@
           alt="play a game"
       /></a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a target="_blank" href="" title="have a laugh"
+      <a target="_blank" href="https://dadjokes-a0d8c.web.app/" title="have a laugh"
         ><img
           src="https://www.freeiconspng.com/uploads/meme-png-31.png"
           width="100"
