@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **A gregarious nerd with humour 🙂.**
 
-  <table width=800px border="2">
+  <table align="center" width="800">
             <tr align="center">
                 <td> 
                      <a href="https://replyre.github.io/tetris-game/" title="play tetris game"><img src="https://www.freeiconspng.com/uploads/gamepad-icon-0.png" width="100" height="100" alt="Gamepad Free Icon Image" /></a>
