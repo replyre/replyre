@@ -40,9 +40,9 @@
                 </td>
             </tr>
             <tr align="center">
-                <td>play a game</td>
-                <td>have a laugh</td>
-                <td>Feedback</td>
+                <td> <a href="https://replyre.github.io/tetris-game/" title="play tetris game">play a game</a></td>
+                <td><a href="">have a laugh</a></td>
+                <td> <a href="https://replyre.github.io/Feedback_UI/" title="Feedback">Feedback</a></td>
             </tr>
     </table>    
   <h3 align="center">Connect with me:</h3>
