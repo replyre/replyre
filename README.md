@@ -22,9 +22,7 @@
 
 - ⚡ Fun fact **A gregarious nerd with humour 🙂.**
 
-
-
-        <table width=800px border="2">
+  <table width=800px border="2">
             <tr align="center">
                 <td> 
                      <a href="https://replyre.github.io/tetris-game/" title="play tetris game"><img src="https://www.freeiconspng.com/uploads/gamepad-icon-0.png" width="100" height="100" alt="Gamepad Free Icon Image" /></a>
@@ -41,7 +39,7 @@
                 <td>have a laugh</td>
                 <td>Feedback</td>
             </tr>
-      </table>    
+    </table>    
   <h3 align="center">Connect with me:</h3>
   <p align="center">
     <a href="https://linkedin.com/in/replyr" target="blank"
