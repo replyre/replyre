@@ -21,6 +21,28 @@
 - 📄 Resume [Click Me](https://drive.google.com/file/d/1P9Ydz3MdjpwItIq8aviI9_LXi6x9hLuo/view?usp=drive_link)
 
 - ⚡ Fun fact **A gregarious nerd with humour 🙂.**
+
+
+<center>
+        <table width=800px border="2">
+            <tr align="center">
+                <td> 
+                     <a href="https://replyre.github.io/tetris-game/" title="play tetris game"><img src="https://www.freeiconspng.com/uploads/gamepad-icon-0.png" width="100" height="100" alt="Gamepad Free Icon Image" /></a>
+                </td>
+                <td>
+                     <a href="" title="Dad Jokes"><img src="https://www.freeiconspng.com/uploads/meme-png-31.png" width="100" height="100" alt="meme png" /></a>
+                </td>
+                <td>
+                   <a href="https://replyre.github.io/Feedback_UI/" title="Feedback"><img src="https://www.freeiconspng.com/uploads/feedback-icon-22.png" width="100" height="100" alt="Icons Png Feedback Download"/></a>
+                </td>
+            </tr>
+            <tr align="center">
+                <td>play a game</td>
+                <td>have a laugh</td>
+                <td>Feedback</td>
+            </tr>
+      </table>    
+</center>
   <h3 align="center">Connect with me:</h3>
   <p align="center">
     <a href="https://linkedin.com/in/replyr" target="blank"
