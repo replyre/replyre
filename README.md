@@ -96,6 +96,18 @@
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <p align="center">Quiz App</p>
         </td>
+         <td>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="https://eshop-replyr.web.app/" title="E-shop App"
+            ><img
+              src="https://www.freeiconspng.com/uploads/market-stand-icon-1.png"
+              width="100"
+              height="100"
+              alt="Market Stand Icon"
+          /></a>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <p align="center">eShop App</p>
+        </td>
       </tr>
     </table>
   
