@@ -55,7 +55,7 @@
       /></a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </p>
-<h3 align="center">React Projects</h3>
+<h3 align="center">React Projects:</h3>
   <table align="center">
       <tr>
         <td>
@@ -68,8 +68,7 @@
               src="https://png.pngtree.com/png-vector/20220810/ourmid/pngtree-blogging-concept-picture-writer-laptop-png-image_5722986.png"
               width="100"
               height="100"
-            />
-          </a>
+            /></a>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <p align="center">Blog Website</p>
         </td>
@@ -81,8 +80,7 @@
               width="100"
               height="100"
               alt="recipe app"
-            />
-          </a>
+            /></a>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <p align="center">Recipe App</p>
         </td>
@@ -94,8 +92,7 @@
               width="100"
               height="100"
               alt="Quiz App"
-            />
-          </a>
+            /></a>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <p align="center">Quiz App</p>
         </td>
