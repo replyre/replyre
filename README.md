@@ -55,8 +55,7 @@
       /></a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </p>
- <h3 align="center">React Projects</h3>
- 
+<h3 align="center">React Projects</h3>
   <table align="center">
       <tr>
         <td>
