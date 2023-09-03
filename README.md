@@ -100,10 +100,10 @@
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <a href="https://eshop-replyr.web.app/" title="E-shop App"
             ><img
-              src="https://www.freeiconspng.com/uploads/market-stand-icon-1.png"
-              width="100"
+              src="https://www.freeiconspng.com/uploads/buy-png-8.png"
+              width="130"
               height="100"
-              alt="Market Stand Icon"
+              alt="eShop app"
           /></a>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <p align="center">eShop App</p>
