@@ -55,7 +55,54 @@
       /></a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </p>
-    
+ <h3 align="center">React Projects</h3>
+ 
+  <table align="center">
+      <tr>
+        <td>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a
+            href="https://replyre.github.io/blog/"
+            title="blog website"
+            alt="blog website"
+            ><img
+              src="https://png.pngtree.com/png-vector/20220810/ourmid/pngtree-blogging-concept-picture-writer-laptop-png-image_5722986.png"
+              width="100"
+              height="100"
+            />
+          </a>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <p align="center">Blog Website</p>
+        </td>
+        <td>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="https://recipe-app-872e3.web.app/" title="Recipe App"
+            ><img
+              src="https://www.freeiconspng.com/uploads/recipe-book-png-file-3.png"
+              width="100"
+              height="100"
+              alt="recipe app"
+            />
+          </a>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <p align="center">Recipe App</p>
+        </td>
+        <td>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="https://replyre.github.io/React-Quiz-App/" title="Quiz App"
+            ><img
+              src="https://www.freeiconspng.com/uploads/question-icon-6.png"
+              width="100"
+              height="100"
+              alt="Quiz App"
+            />
+          </a>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <p align="center">Quiz App</p>
+        </td>
+      </tr>
+    </table>
+  
   <h3 align="center">Connect with me:</h3>
   <p align="center">
     <a href="https://linkedin.com/in/replyr" target="blank"
