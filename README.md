@@ -21,7 +21,7 @@
 - 📄 Resume [Click Me](https://drive.google.com/file/d/1P9Ydz3MdjpwItIq8aviI9_LXi6x9hLuo/view?usp=drive_link)
 
 - ⚡ Fun fact **A gregarious nerd with humour 🙂.**
-- 
+  
 - 🔥 Project Links: [Click ME](https://github.com/replyre/All_Projects)
 
 <p align="center">
