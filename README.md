@@ -82,15 +82,9 @@
         </td>
         <td>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="https://replyre.github.io/React-Quiz-App/" title="Quiz App"
-            ><img
-              src="https://www.freeiconspng.com/uploads/question-icon-6.png"
-              width="100"
-              height="100"
-              alt="Quiz App"
-            /></a>
+         <a href="https://movieapp-replyre.web.app/" title="Movie App"><img src="https://www.freeiconspng.com/uploads/movie-icon-11.png" width="100" height="100" alt="Movie icon" /></a>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <p align="center">Quiz App</p>
+          <p align="center">Movie App</p>
         </td>
          <td>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
