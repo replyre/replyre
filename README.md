@@ -118,7 +118,7 @@
         <td>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
          <a href="https://crypto-provider.web.app/" title="Crypto App">
-           <img src="https://www.freeiconspng.com/uploads/digital-money-bitcoin-icon-31.png" width="350" alt="Bitcoin" /></a>
+           <img src="https://www.freeiconspng.com/uploads/digital-money-bitcoin-icon-31.png" width="100" height="100" alt="Bitcoin" /></a>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <p align="center">Crypto Provider</p>
         </td>
