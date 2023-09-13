@@ -76,15 +76,9 @@
         </td>
         <td>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="https://recipe-app-872e3.web.app/" title="Recipe App"
-            ><img
-              src="https://www.freeiconspng.com/uploads/recipe-book-png-file-3.png"
-              width="100"
-              height="100"
-              alt="recipe app"
-            /></a>
+          <a href="https://dashboard-replyre.web.app/" title="DashBoard"><img src="https://www.freeiconspng.com/uploads/dashboard-icon-19.png" width="100" height="100" alt="Dashboard Icon" /></a>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <p align="center">Recipe App</p>
+          <p align="center">Dynamic Dashboard</p>
         </td>
         <td>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
