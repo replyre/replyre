@@ -91,7 +91,7 @@
           <a href="https://replyre.github.io/Tic_Tac_Toe-React/" title="Tic Tac Toe App"
             ><img
               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVi59qOer06nlWlxAe3aeNIr5thFKYsc2Rcg&usqp=CAU"
-              width="130"
+              width="100"
               height="100"
               alt="tic-tac-toe app"
           /></a>
