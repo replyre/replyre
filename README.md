@@ -88,15 +88,15 @@
         </td>
          <td>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="https://eshop-replyr.web.app/" title="E-shop App"
+          <a href="https://replyre.github.io/Tic_Tac_Toe-React/" title="Tic Tac Toe App"
             ><img
-              src="https://www.freeiconspng.com/uploads/buy-png-8.png"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVi59qOer06nlWlxAe3aeNIr5thFKYsc2Rcg&usqp=CAU"
               width="130"
               height="100"
-              alt="eShop app"
+              alt="tic-tac-toe app"
           /></a>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <p align="center">eShop App</p>
+          <p align="center">Tic Tac Toe Game</p>
         </td>
       </tr>
     </table>
