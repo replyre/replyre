@@ -112,6 +112,54 @@
         </td>
       </tr>
     </table>
+  <!-- second table-->
+  <table align="center">
+      <tr>
+        <td>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         <a href="https://crypto-provider.web.app/" title="Crypto App">
+           <img src="https://www.freeiconspng.com/uploads/digital-money-bitcoin-icon-31.png" width="350" alt="Bitcoin" /></a>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <p align="center">Crypto Provider</p>
+        </td>
+        <td>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="https://recipe-app-872e3.web.app/" title="Recipe App"
+            ><img
+              src="https://www.freeiconspng.com/uploads/recipe-book-png-file-3.png"
+              width="100"
+              height="100"
+              alt="recipe app"
+            /></a>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <p align="center">Recipe App</p>
+        </td>
+        <td>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="https://replyre.github.io/React-Quiz-App/" title="Quiz App"
+            ><img
+              src="https://www.freeiconspng.com/uploads/question-icon-6.png"
+              width="100"
+              height="100"
+              alt="Quiz App"
+            /></a>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <p align="center">Quiz App</p>
+        </td>
+         <td>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="https://eshop-replyr.web.app/" title="E-shop App"
+            ><img
+              src="https://www.freeiconspng.com/uploads/buy-png-8.png"
+              width="130"
+              height="100"
+              alt="eShop app"
+          /></a>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <p align="center">eShop App</p>
+        </td>
+      </tr>
+    </table>
   
   <h3 align="center">Connect with me:</h3>
   <p align="center">
