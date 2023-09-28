@@ -320,8 +320,4 @@
     />
   </p>
   
-  <p><img
-       align="center" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=replyre"
-       alt="replyre" /></p>
- 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
