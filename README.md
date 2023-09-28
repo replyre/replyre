@@ -318,4 +318,5 @@
       src="https://github-readme-stats.vercel.app/api/top-langs?username=replyre&show_icons=true&locale=en&layout=compact"
       alt="replyre"
     />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=replyre&" alt="replyre" />
   </p>
