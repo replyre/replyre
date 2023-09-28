@@ -318,6 +318,4 @@
       src="https://github-readme-stats.vercel.app/api/top-langs?username=replyre&show_icons=true&locale=en&layout=compact"
       alt="replyre"
     />
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
-
   </p>  
