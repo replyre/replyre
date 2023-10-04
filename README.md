@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **replyrgupta@gmail.com**
 
-- 📄 Resume [Click Me](https://drive.google.com/file/d/1P9Ydz3MdjpwItIq8aviI9_LXi6x9hLuo/view?usp=drive_link)
+- 📄 Resume [Click Me](https://drive.google.com/file/d/13uMH4l8iGTdQnXQI5rwzw0Fux33sycL9/view?usp=drive_link)
 
 - ⚡ Fun fact **A gregarious nerd with humour 🙂.**
   
