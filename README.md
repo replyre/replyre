@@ -3,7 +3,7 @@
     | MCA IET'24 | Passionate frontend developer | React, React Native, Firebase
     | DSA, C++, LeetCode,GFG |
   </h3>
-
+![](https://komarev.com/ghpvc/?username=replyr)
   <p align="left">
     <a href="https://twitter.com/" target="blank">
       <img
