@@ -150,7 +150,10 @@
         </td>
       </tr>
     </table>
-  
+ <h3 align="center">Support me:</h3>
+ <p align="center">
+   <a href="https://www.buymeacoffee.com/replyr" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style=" margin:auto; height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+ </p>
   <h3 align="center">Connect with me:</h3>
   <p align="center">
     <a href="https://linkedin.com/in/replyr" target="blank"
