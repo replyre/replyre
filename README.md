@@ -25,6 +25,8 @@
 - ⚡ Fun fact **A gregarious nerd with humour 🙂.**
   
 - 🔥 Project Links: [Click ME](https://github.com/replyre/All_Projects)
+  
+- 📙 My Poetry Book **(I coded it)** : *[King of Hearts & Queens of Hope](https://replyre.github.io/KaQ_DPB_1/)*
 
 <p align="center">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
