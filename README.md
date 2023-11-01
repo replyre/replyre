@@ -1,6 +1,6 @@
 [![](https://holopin.me/replyre)](https://holopin.io/@replyre)
 
-<h1 align="center">Hi 👋, I'm Rahul Gupta,</h1>
+<h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
   <h3 align="center">
     | MCA IET'24 | Passionate frontend developer | React, React Native, Firebase
     | DSA, C++, LeetCode,GFG |
