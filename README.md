@@ -32,7 +32,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <a
         target="_blank"
-        href="https://codepen.io/replyre/pen/GRzpvYZ"
+        href="https://replyre.github.io/memory_game/"
         title="play a game"
         ><img
           src="https://www.freeiconspng.com/uploads/gamepad-icon-0.png"
