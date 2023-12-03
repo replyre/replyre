@@ -14,7 +14,7 @@
     /></a>
   </p>
 
- - 🌱 I’m currently learning **React Native**
+ - 🌱 I’m currently learning **Node JS**
 
 - 💬 Ask me about **React, JS, DSA, C++,**
 
