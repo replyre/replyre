@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
   <h3 align="center">
-    | MCA IET'24 | Passionate frontend developer | React, React Native, Firebase
+    | MCA IET'24 | Passionate frontend developer | React, NodeJS, Firebase
     | DSA, C++, LeetCode,GFG |
   </h3>
 
