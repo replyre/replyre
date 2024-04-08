@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **replyrgupta@gmail.com**
 
-- 📄 Resume [Click Me](https://drive.google.com/file/d/13uMH4l8iGTdQnXQI5rwzw0Fux33sycL9/view?usp=drive_link)
+- 📄 Resume [Click Me](https://drive.google.com/file/d/11y-ZcX31NVkTOjs_CiHbxhFWcTUANIJs/view?usp=sharing)
 
 - ⚡ Fun fact **A gregarious nerd with humour 🙂.**
   
