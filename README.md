@@ -62,7 +62,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </p>
     
-<h3 align="center">MERN Projects:</h3>
+<h3 align="center">Latest MERN Project:</h3>
 <table align="center">
   <tr>
     <td> <a href="https://face-recognition-mern-app.vercel.app/" title="MERN FACE Recognition APP"
