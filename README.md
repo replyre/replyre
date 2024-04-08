@@ -61,6 +61,15 @@
       /></a>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </p>
+    
+<h3 align="center">MERN Projects:</h3>
+<table align="center">
+  <tr>
+    <td> <a href="https://face-recognition-mern-app.vercel.app/" title="MERN FACE Recognition APP"
+            alt="MERN FACE Recognition APP"><img src ="https://private-user-images.githubusercontent.com/121796450/319318909-70848b3b-e41a-4f02-8cf6-ea0b4d8737b2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI1NDgyMjksIm5iZiI6MTcxMjU0NzkyOSwicGF0aCI6Ii8xMjE3OTY0NTAvMzE5MzE4OTA5LTcwODQ4YjNiLWU0MWEtNGYwMi04Y2Y2LWVhMGI0ZDg3MzdiMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwOFQwMzQ1MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kOGI0YjFhMWMxMWVkNGMwNmVmZmQ4YWE2ODQ5ZDVhNzFiYmI1M2Y5MTE2ZWRhYjQzMGM3N2JkMjBhNGUyZGIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.9oq3YGbX91WXuooM9DYBORbQl5ZPXJcWuTqMy9tVcXM" width="700px" height="300px" ></a>
+        <p align="center">Face Recognition App</p>
+  </tr>
+</table>
 <h3 align="center">React Projects:</h3>
   <table align="center">
       <tr>
