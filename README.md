@@ -14,7 +14,7 @@
     /></a>
   </p>
 
- - 🌱 I’m currently learning **NExt JS**
+ - 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **React, JS, DSA, C++,**
 
